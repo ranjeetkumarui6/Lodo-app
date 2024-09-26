@@ -1,0 +1,70 @@
+.containerApp{
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  display: flex;
+  width: 50%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container1{
+  width: 41.3%;
+  margin-left: 0%;
+}
+.container2{
+  width: 41.3%;
+}
+.container3{
+  width: 41.3%;
+
+
+
+}.container4{
+  width: 41.3%;
+
+}
+.d2{
+  width: 100%;
+  border: 1px solid rgb(176, 172, 172);
+  height:2rem ;
+  display: flex;
+
+}
+.d1{
+  width: 2rem;
+  border: 1px solid rgb(176, 172, 172);
+  height:241px ;
+}
+.middle-squire{
+  text-align: center;
+  top: 39.6%;
+  left: 4.7%;
+  position: absolute;
+  background-color: black;
+  margin-left: 41%;
+  background-image: linear-gradient(to top right,blue 50%,red 50%);
+  width: 6.5rem;
+  height: 6.5rem;
+  
+}
+.round{
+  width: 3rem;
+  height: 3rem;
+ margin: 0 auto;
+ margin-top: 25%;
+  border-radius: 50%;
+  background-color: rgb(205, 70, 164);
+}
+.d11{
+  width: 2rem;
+  display: flex;
+  height: 16%;
+  border: 1px solid rgb(176, 172, 172);
+}
+.d22{
+  width: 6.9%;
+  height: 2rem;
+  border: 1px solid rgb(176, 172, 172);
+}
